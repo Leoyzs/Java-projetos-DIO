@@ -41,7 +41,9 @@ public class TiposVariaveis {
 		 
 		 // TESTE AULA 3 IF E ELSE DE UMA MANEIRA RESUMIDA
 
-		 String resultado = a==b ? "Verdadeiro" : "falso";
+		 String resultado = a==b ? "Verdadeiro" : "falso";                         //   <<<<<<< IF E ELSE FACILITADO 
 		 System.out.println(resultado);
+		 
+		 
 	 }
 }
