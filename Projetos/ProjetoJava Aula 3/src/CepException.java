@@ -1,4 +1,4 @@
-public class CepException extends sla2{
+public class CepException extends sla{
 
     public void printStackTrace() {
         // TODO Auto-generated method stub
