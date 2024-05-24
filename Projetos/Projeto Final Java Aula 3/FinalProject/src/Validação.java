@@ -9,7 +9,7 @@ public class Validação {
         for(String candidato: candidatos){
             entrandoEmContato(candidato);
         }
-        
+
         //seleçãoCandidatos();
         //imprimirSelecionados();
     
@@ -43,24 +43,6 @@ public class Validação {
     static boolean atender(){
         return new Random().nextInt(3)==1;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     // Método que simula valor pretendido
