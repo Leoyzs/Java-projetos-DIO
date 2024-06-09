@@ -1,4 +1,4 @@
-package pesquisaset;
+package guardar;
 
 import java.util.Objects;
 import java.util.HashSet;
@@ -43,7 +43,7 @@ public class AgendaContato {
        }
        return contatoAtualizado;
    }
-   
+   /*
    public static void main (String [] args){
        AgendaContato Ac = new AgendaContato();
        Ac.AdicionarContato("Allanis ", 84956263);
@@ -62,6 +62,6 @@ public class AgendaContato {
        System.out.println("\nAgora iremos atualizar o contato da allanis e exibir novamente os contatos allanis\n");
        Ac.atualizarPorContato("Allanis ", 748451);
        System.out.println( Ac.pesquisarPorNome("Allanis"));
-   }
+   }*/
    
 }
